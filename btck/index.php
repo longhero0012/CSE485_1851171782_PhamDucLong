@@ -15,7 +15,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="lib/slick/slick.css" rel="stylesheet">
     <link href="lib/slick/slick-theme.css" rel="stylesheet">
-
+    
 
 
     <link href="css/style.css" rel="stylesheet">
@@ -47,9 +47,8 @@
 
 
 
-    <div class="brand">
-        <div class="container"></div>
-        <div class="row align-items-center">
+    <div class="brand ">
+        <div class="row align-items-center container">
             <div class="col-lg-3 col-md-4">
                 <div class="b-logo">
                     <a href="index.php">
@@ -81,54 +80,54 @@
 
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav mr-auto">
-                        <a href="index.html" class="nav-item nav-link active">Trang chủ</a>
+                        <a href="index.php" class="nav-item nav-link active">Trang chủ</a>
                         <div class="nav-item dropdown">
                             <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">Giới thiệu</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Logo khoa CNTT</a>
+                                <a href="#" class="dropdown-item">Lời chào mừng</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nghiên cứu khoa học</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Các đề tài dự án</a>
+                                <a href="#" class="dropdown-item">Công trình công bố</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Đào tạo</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Đào tạo đại học</a>
+                                <a href="#" class="dropdown-item">Đào tạo sau đại học</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Bộ môn- Trung tâm</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Công nghệ phần mềm</a>
+                                <a href="#" class="dropdown-item">Bộ môn trung tâm</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Sinh viên</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Tài liệu sinh viên</a>
+                                <a href="#" class="dropdown-item">Tổ tư vấn học tập</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tin tức</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Sự kiện</a>
+                                <a href="#" class="dropdown-item">CSE trên báo</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Thông báo</a>
                             <div class="dropdown-menu">
-                                <a href="#" class="dropdown-item">Sub Item 1</a>
-                                <a href="#" class="dropdown-item">Sub Item 2</a>
+                                <a href="#" class="dropdown-item">Thông báo</a>
+                                <a href="#" class="dropdown-item">Nghiên cứu khoa học</a>
                             </div>
                         </div>
                         <a href="single-page.html" class="nav-item nav-link">Liên hệ</a>
@@ -155,7 +154,7 @@
                     <div class="row tn-slider">
                         <div class="col-md-6">
                             <div class="tn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/anh1.jpg" />
                                 <div class="tn-title">
                                     
                                 </div>
@@ -163,7 +162,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="tn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/anh2.jpg" />
                                 <div class="tn-title">
                                     
                                 </div>
@@ -175,7 +174,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="tn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/loichaomung.jpg" />
                                 <div class="tn-title">
                                     <a href="">Lời chào mừng</a>
                                 </div>
@@ -183,7 +182,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="tn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/daotao.jpg" />
                                 <div class="tn-title">
                                     <a href="">Đào tạo</a>
                                 </div>
@@ -191,7 +190,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="tn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/nckh.jpg" />
                                 <div class="tn-title">
                                     <a href="">Nghiên cứu khoa học</a>
                                 </div>
@@ -199,7 +198,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="tn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/giangvien.jpg" />
                                 <div class="tn-title">
                                     <a href="">Giảng viên</a>
                                 </div>
@@ -225,19 +224,14 @@
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="pill" href="#featured">Tin tức nổi bật</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="pill" href="#popular">Tin tức phổ biến</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="pill" href="#latest">Tin tức cũ</a>
-                        </li>
+
                     </ul>
 
                     <div class="tab-content">
                         <div id="featured" class="container tab-pane active">
                             <div class="tn-news">
                                 <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
+                                    <img src="img/cnpm.jpg" />
                                 </div>
                                 <div class="tn-title">
                                     <a href="">Công nghệ phần mềm</a>
@@ -245,7 +239,7 @@
                             </div>
                             <div class="tn-news">
                                 <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
+                                    <img src="img/dtsv.jpg" />
                                 </div>
                                 <div class="tn-title">
                                     <a href="">Tài liệu sinh viên</a>
@@ -253,62 +247,10 @@
                             </div>
                             <div class="tn-news">
                                 <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
+                                    <img src="img/td.jpg" />
                                 </div>
                                 <div class="tn-title">
                                     <a href="">Tuyển dụng</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="popular" class="container tab-pane fade">
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="latest" class="container tab-pane fade">
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
                                 </div>
                             </div>
                         </div>
@@ -320,19 +262,13 @@
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="pill" href="#m-viewed">Quan tâm nhiều </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="pill" href="#m-read">Đọc nhiều </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="pill" href="#m-recent">Phản hồi nhiều </a>
-                        </li>
                     </ul>
 
                     <div class="tab-content">
                         <div id="m-viewed" class="container tab-pane active">
                             <div class="tn-news">
                                 <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
+                                    <img src="img/dtda.jpg" />
                                 </div>
                                 <div class="tn-title">
                                     <a href="">Danh mục các đề tài nghiêm cứu</a>
@@ -340,7 +276,7 @@
                             </div>
                             <div class="tn-news">
                                 <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
+                                    <img src="img/dtdh.jpg" />
                                 </div>
                                 <div class="tn-title">
                                     <a href="">Đào tạo đại học</a>
@@ -348,62 +284,10 @@
                             </div>
                             <div class="tn-news">
                                 <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
+                                    <img src="img/ttdt.jpg" />
                                 </div>
                                 <div class="tn-title">
                                     <a href="">Trung tâm tin học</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="m-read" class="container tab-pane fade">
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="m-recent" class="container tab-pane fade">
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
-                                </div>
-                            </div>
-                            <div class="tn-news">
-                                <div class="tn-img">
-                                    <img src="img/rsz_hoi-thao.jpg" />
-                                </div>
-                                <div class="tn-title">
-                                    <a href="">demo</a>
                                 </div>
                             </div>
                         </div>
@@ -422,7 +306,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/hb.jpg" />
                                 <div class="mn-title">
                                     <a href="">Học bổng</a>
                                 </div>
@@ -430,7 +314,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/sk.jpg" />
                                 <div class="mn-title">
                                     <a href="">Sự kiện</a>
                                 </div>
@@ -438,7 +322,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="mn-img">
-                                <img src="img/rsz_hoi-thao.jpg" />
+                                <img src="img/tt.jpg" />
                                 <div class="mn-title">
                                     <a href="">Ảnh khoa công nghệ thông tin</a>
                                 </div>
